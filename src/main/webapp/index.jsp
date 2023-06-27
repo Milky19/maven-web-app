@@ -1,6 +1,7 @@
 <html>
 <body>
 <h1><font color='red'> Welcome to Codingrad Technologies - Software Training Institute <font></h1>
+<h2>Learning DevOps in telugu</h2>
 <h2>Learn Here.. Lead Anywhere..!! </h2>
 
 <a href="https://codingrad.com/online-training-schedules">Click Here To See Codingrad Training Schedules</a>
